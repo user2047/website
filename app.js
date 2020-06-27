@@ -3,10 +3,6 @@ const path = require("path");
 const fs = require("fs");
 const es6Renderer = require("express-es6-template-engine");
 let html;
-// fs.readFile(__dirname + "/web/html/index2.html","utf-8",function callback(err, data){
-//     if (err) throw err;
-//     html = data;
-// });
 
 // Init App
 const app = express();

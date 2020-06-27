@@ -1,17 +1,19 @@
 {
-  "name": "web",
+  "name": "cameronsenna.com",
   "version": "1.0.0",
-  "description": "cam's website",
+  "description": "Cameron Senna's portfolio site",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Cameron Senna",
+  "repository": {
+    "type": "git",
+    "url": "https://www.github.com/user2047/website"
+  },
+  "author": "Cameron Senna (user2047)",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.16.2",
-    "express-es6-template-engine": "^2.0.2",
-    "nodemon": "^1.14.11",
-    "save": "^2.3.2"
+    "express": "^4.17.1",
+    "express-es6-template-engine": "^2.2.3"
   }
 }
