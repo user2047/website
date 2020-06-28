@@ -1,0 +1,691 @@
+server started on port 3000
+
+[client-request]:
+
+	GET
+	/services
+	cameronsenna.com
+	::ffff:127.0.0.1
+
+[server-response]:
+
+
+[client-request]:
+
+	GET
+	/resume
+	cameronsenna.com
+	::ffff:127.0.0.1
+
+[server-response]:
+
+
+[client-request]:
+
+	GET
+	/
+	34.73.3.55
+	::ffff:127.0.0.1
+
+[server-response]:
+
+
+[client-request]:
+
+	GET
+	/resume
+	34.73.3.55
+	::1
+
+[server-response]:
+
+
+[client-request]:
+
+	GET
+	/
+	www.cameronsenna.com
+	::ffff:127.0.0.1
+
+[server-response]:
+
+
+[client-request]:
+
+	GET
+	/
+	www.cameronsenna.com
+	::ffff:127.0.0.1
+
+[server-response]:
+
+
+[client-request]:
+
+	GET
+	/services
+	www.cameronsenna.com
+	::1
+
+[server-response]:
+
+
+[client-request]:
+
+	GET
+	/services
+	www.cameronsenna.com
+	::1
+
+[server-response]:
+
+
+[client-request]:
+
+	GET
+	/
+	www.cameronsenna.com
+	::ffff:127.0.0.1
+
+[server-response]:
+
+
+[client-request]:
+
+	GET
+	/resume
+	34.73.3.55
+	::1
+
+[server-response]:
+
+
+[client-request]:
+
+	GET
+	/
+	www.cameronsenna.com
+	::ffff:127.0.0.1
+
+[server-response]:
+
+
+[client-request]:
+
+	GET
+	/
+	cameronsenna.com
+	::1
+
+[server-response]:
+
+
+[client-request]:
+
+	GET
+	/
+	cameronsenna.com
+	::ffff:127.0.0.1
+
+[server-response]:
+
+
+[client-request]:
+
+	GET
+	/
+	www.cameronsenna.com
+	::1
+
+[server-response]:
+
+
+[client-request]:
+
+	GET
+	/
+	www.cameronsenna.com
+	::1
+
+[server-response]:
+
+
+[client-request]:
+
+	GET
+	/
+	www.cameronsenna.com
+	::ffff:127.0.0.1
+
+[server-response]:
+
+
+[client-request]:
+
+	GET
+	/services
+	www.cameronsenna.com
+	::1
+
+[server-response]:
+
+
+[client-request]:
+
+	GET
+	/contact
+	www.cameronsenna.com
+	::ffff:127.0.0.1
+
+[server-response]:
+
+
+[client-request]:
+
+	GET
+	/resume
+	www.cameronsenna.com
+	::1
+
+[server-response]:
+
+
+[client-request]:
+
+	GET
+	/donate
+	www.cameronsenna.com
+	::ffff:127.0.0.1
+
+[server-response]:
+
+
+[client-request]:
+
+	GET
+	/
+	cameronsenna.com
+	::1
+
+[server-response]:
+
+
+[client-request]:
+
+	GET
+	/
+	cameronsenna.com
+	::ffff:127.0.0.1
+
+[server-response]:
+
+
+[client-request]:
+
+	GET
+	/
+	cameronsenna.com
+	::1
+
+[server-response]:
+
+
+[client-request]:
+
+	GET
+	/contact
+	cameronsenna.com
+	::ffff:127.0.0.1
+
+[server-response]:
+
+
+[client-request]:
+
+	GET
+	/
+	cameronsenna.com
+	::1
+
+[server-response]:
+
+
+[client-request]:
+
+	GET
+	/donate
+	www.cameronsenna.com
+	::ffff:127.0.0.1
+
+[server-response]:
+
+
+[client-request]:
+
+	GET
+	/
+	cameronsenna.com
+	::ffff:127.0.0.1
+
+[server-response]:
+
+
+[client-request]:
+
+	GET
+	/
+	cameronsenna.com
+	::ffff:127.0.0.1
+
+[server-response]:
+
+
+[client-request]:
+
+	GET
+	/contact
+	cameronsenna.com
+	::ffff:127.0.0.1
+
+[server-response]:
+
+
+[client-request]:
+
+	GET
+	/about
+	cameronsenna.com
+	::ffff:127.0.0.1
+
+[server-response]:
+
+
+[client-request]:
+
+	GET
+	/donate
+	cameronsenna.com
+	::ffff:127.0.0.1
+
+[server-response]:
+
+
+[client-request]:
+
+	GET
+	/contact
+	cameronsenna.com
+	::1
+
+[server-response]:
+
+
+[client-request]:
+
+	GET
+	/services
+	cameronsenna.com
+	::1
+
+[server-response]:
+
+
+[client-request]:
+
+	GET
+	/
+	cameronsenna.com
+	::1
+
+[server-response]:
+
+
+[client-request]:
+
+	GET
+	/
+	cameronsenna.com
+	::1
+
+[server-response]:
+
+
+[client-request]:
+
+	GET
+	/about
+	cameronsenna.com
+	::1
+
+[server-response]:
+
+
+[client-request]:
+
+	GET
+	/owa/auth/logon.aspx
+	34.73.3.55
+	::1
+
+[server-response]:
+
+
+[client-request]:
+
+	GET
+	/
+	cameronsenna.com
+	::ffff:127.0.0.1
+
+[server-response]:
+
+
+[client-request]:
+
+	GET
+	/
+	cameronsenna.com
+	::1
+
+[server-response]:
+
+
+[client-request]:
+
+	GET
+	/services
+	cameronsenna.com
+	::ffff:127.0.0.1
+
+[server-response]:
+
+
+[client-request]:
+
+	GET
+	/contact
+	cameronsenna.com
+	::ffff:127.0.0.1
+
+[server-response]:
+
+
+[client-request]:
+
+	GET
+	/donate
+	cameronsenna.com
+	::ffff:127.0.0.1
+
+[server-response]:
+
+
+[client-request]:
+
+	GET
+	/
+	cameronsenna.com
+	::ffff:127.0.0.1
+
+[server-response]:
+
+
+[client-request]:
+
+	GET
+	/services
+	cameronsenna.com
+	::ffff:127.0.0.1
+
+[server-response]:
+
+
+[client-request]:
+
+	GET
+	/resume
+	cameronsenna.com
+	::ffff:127.0.0.1
+
+[server-response]:
+
+
+[client-request]:
+
+	GET
+	/about
+	cameronsenna.com
+	::1
+
+[server-response]:
+
+
+[client-request]:
+
+	GET
+	/
+	cameronsenna.com
+	::1
+
+[server-response]:
+
+
+[client-request]:
+
+	GET
+	/services
+	cameronsenna.com
+	::1
+
+[server-response]:
+
+
+[client-request]:
+
+	GET
+	/resume
+	cameronsenna.com
+	::1
+
+[server-response]:
+
+
+[client-request]:
+
+	GET
+	/donate
+	cameronsenna.com
+	::1
+
+[server-response]:
+
+
+[client-request]:
+
+	GET
+	/donate
+	cameronsenna.com
+	::1
+
+[server-response]:
+
+
+[client-request]:
+
+	GET
+	/about
+	cameronsenna.com
+	::ffff:127.0.0.1
+
+[server-response]:
+
+
+[client-request]:
+
+	GET
+	/robots.txt
+	cameronsenna.com
+	::ffff:127.0.0.1
+
+[server-response]:
+
+
+[client-request]:
+
+	GET
+	/
+	cameronsenna.com
+	::1
+
+[server-response]:
+
+
+[client-request]:
+
+	GET
+	/about
+	cameronsenna.com
+	::ffff:127.0.0.1
+
+[server-response]:
+
+
+[client-request]:
+
+	GET
+	/resume
+	cameronsenna.com
+	::1
+
+[server-response]:
+
+
+[client-request]:
+
+	GET
+	/
+	cameronsenna.com
+	::ffff:127.0.0.1
+
+[server-response]:
+
+
+[client-request]:
+
+	GET
+	/
+	cameronsenna.com
+	::1
+
+[server-response]:
+
+
+[client-request]:
+
+	GET
+	/
+	cameronsenna.com
+	::ffff:127.0.0.1
+
+[server-response]:
+
+
+[client-request]:
+
+	GET
+	/
+	cameronsenna.com
+	::1
+
+[server-response]:
+
+
+[client-request]:
+
+	GET
+	/
+	cameronsenna.com
+	::ffff:127.0.0.1
+
+[server-response]:
+
+
+[client-request]:
+
+	GET
+	/services
+	cameronsenna.com
+	::1
+
+[server-response]:
+
+
+[client-request]:
+
+	GET
+	/resume
+	cameronsenna.com
+	::1
+
+[server-response]:
+
+
+[client-request]:
+
+	GET
+	/
+	www.cameronsenna.com
+	::1
+
+[server-response]:
+
+
+[client-request]:
+
+	GET
+	/donate
+	www.cameronsenna.com
+	::ffff:127.0.0.1
+
+[server-response]:
+
+
+[client-request]:
+
+	GET
+	/resume
+	www.cameronsenna.com
+	::1
+
+[server-response]:
+
+
+[client-request]:
+
+	GET
+	/contact
+	www.cameronsenna.com
+	::ffff:127.0.0.1
+
+[server-response]:
+
+
+[client-request]:
+
+	GET
+	/services
+	www.cameronsenna.com
+	::1
+
+[server-response]:
+
+
+[client-request]:
+
+	GET
+	/about
+	www.cameronsenna.com
+	::ffff:127.0.0.1
+
+[server-response]:
+
