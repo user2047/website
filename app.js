@@ -54,6 +54,10 @@ app.get("/donate", function(req, res) {
   res.render("index", {locals: {title: "Donate",main: "This is the donate page",content:"This is the main content"}})
 });
 
+
+app.get("/roadmap", function(req, res) {
+  res.render("index", {locals: {title: "Roadmap",main: "<ul><li>Switch from server Side Rendering to Client Side Rendering via ReactJS to reduce load times</li></ul>",content:"This is the main content"}})
+});
 // Start Server
 app.listen(3000, function() {
   console.log("server started on port 3000");
