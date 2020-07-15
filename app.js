@@ -43,8 +43,7 @@ app.get("/services", function(req, res) {
 });
 
 app.get("/contact", function(req, res) {
-	res.render("index", {locals: {title: "Contact",main: "Contact Me",content:"Phone: 860-368-8845
-		Email: cameron.senna@gmail.com"}})
+	res.render("index", {locals: {title: "Contact",main: "Contact Me",content:"<h2>Phone: 860-368-8845</h2><h2>Email: cameron.senna@gmail.com</h2>"}})
 });
 
 app.get("/resume", function(req, res) {
