@@ -1,0 +1,31 @@
+server started on port 3000
+
+[client-request]:
+
+	GET
+	/download
+	localhost
+	::ffff:127.0.0.1
+
+[server-response]:
+
+
+[client-request]:
+
+	GET
+	/download
+	localhost
+	::ffff:127.0.0.1
+
+[server-response]:
+
+
+[client-request]:
+
+	GET
+	/download
+	localhost
+	::ffff:127.0.0.1
+
+[server-response]:
+
