@@ -38,9 +38,9 @@ app.get("/about", function(req, res) {
   res.render("index", {locals: {title: "About",main: "About",content:"I am a computer science student who has a passion for linux, web development, and cryptography. I am excited about the opportunity that blockchain and cryptocurrencies can bring to our society, regardless of their usage as a payment network"}})
 });
 
-app.get("/services", function(req, res) {
-  res.render("index", {locals: {title: "Services",main: "This is the services page",content:"This is the main content"}})
-});
+// app.get("/services", function(req, res) {
+//   res.render("index", {locals: {title: "Services",main: "This is the services page",content:"This is the main content"}})
+// });
 
 app.get("/contact", function(req, res) {
 	res.render("index", {locals: {title: "Contact",main: "Contact Me",content:"<h2>Phone: 860-368-8845</h2><h2>Email: cameron.senna@gmail.com</h2>"}})
@@ -50,9 +50,9 @@ app.get("/resume", function(req, res) {
 	res.render("index", {locals: {title: "Resume",main: "Resume",content:"<a href='/download'>Download Resume</a>"}})
 });
 
-app.get("/donate", function(req, res) {
-  res.render("index", {locals: {title: "Donate",main: "This is the donate page",content:"This is the main content"}})
-});
+// app.get("/donate", function(req, res) {
+//   res.render("index", {locals: {title: "Donate",main: "This is the donate page",content:"This is the main content"}})
+// });
 
 
 app.get("/roadmap", function(req, res) {
