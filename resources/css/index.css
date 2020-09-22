@@ -85,9 +85,11 @@ a.anchor {
 
 
 .logos {
-	display: inline-block;
-	width: 20%;
-  margin: 20px;
+ 	display: inline-block;
+	margin: 20px;
+	width: 10vw;
+	min-width: 60px;
+
 
 
 }
@@ -95,11 +97,10 @@ a.anchor {
 
 
 .backend {
-  max-width: 150px;
-  height: auto;
   vertical-align: middle;
   margin: 20px;
-  width: 20%;
+  min-width: 90px;
+  width: 10vw;
 
 }
 

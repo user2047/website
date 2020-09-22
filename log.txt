@@ -3,8 +3,8 @@ server started on port 3000
 [client-request]:
 
 	GET
-	/download
-	localhost
+	/
+	cameronsenna.com
 	::ffff:127.0.0.1
 
 [server-response]:
@@ -13,9 +13,9 @@ server started on port 3000
 [client-request]:
 
 	GET
-	/download
-	localhost
-	::ffff:127.0.0.1
+	/
+	www.cameronsenna.com
+	::1
 
 [server-response]:
 
@@ -23,8 +23,8 @@ server started on port 3000
 [client-request]:
 
 	GET
-	/download
-	localhost
+	/roadmap
+	www.cameronsenna.com
 	::ffff:127.0.0.1
 
 [server-response]:
