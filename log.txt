@@ -4,6 +4,26 @@ server started on port 3000
 
 	GET
 	/
+	www.cameronsenna.com
+	::1
+
+[server-response]:
+
+
+[client-request]:
+
+	GET
+	/robots.txt
+	cameronsenna.com
+	::1
+
+[server-response]:
+
+
+[client-request]:
+
+	GET
+	/services
 	cameronsenna.com
 	::ffff:127.0.0.1
 
@@ -14,7 +34,7 @@ server started on port 3000
 
 	GET
 	/
-	www.cameronsenna.com
+	34.73.3.55
 	::1
 
 [server-response]:
@@ -23,8 +43,218 @@ server started on port 3000
 [client-request]:
 
 	GET
-	/roadmap
-	www.cameronsenna.com
+	/robots.txt
+	cameronsenna.com
+	::ffff:127.0.0.1
+
+[server-response]:
+
+
+[client-request]:
+
+	GET
+	/donate
+	cameronsenna.com
+	::1
+
+[server-response]:
+
+
+[client-request]:
+
+	GET
+	/
+	34.73.3.55
+	::ffff:127.0.0.1
+
+[server-response]:
+
+
+[client-request]:
+
+	GET
+	/index.php
+	34.73.3.55
+	::1
+
+[server-response]:
+
+
+[client-request]:
+
+	POST
+	/api/jsonws/invoke
+	34.73.3.55
+	::ffff:127.0.0.1
+
+[server-response]:
+
+
+[client-request]:
+
+	GET
+	/
+	34.73.3.55
+	::1
+
+[server-response]:
+
+
+[client-request]:
+
+	GET
+	/
+	34.73.3.55
+	::ffff:127.0.0.1
+
+[server-response]:
+
+
+[client-request]:
+
+	GET
+	/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
+	34.73.3.55
+	::1
+
+[server-response]:
+
+
+[client-request]:
+
+	POST
+	/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
+	34.73.3.55
+	::ffff:127.0.0.1
+
+[server-response]:
+
+
+[client-request]:
+
+	GET
+	/
+	34.73.3.55
+	::1
+
+[server-response]:
+
+
+[client-request]:
+
+	GET
+	/robots.txt
+	cameronsenna.com
+	::ffff:127.0.0.1
+
+[server-response]:
+
+
+[client-request]:
+
+	GET
+	/download
+	cameronsenna.com
+	::1
+
+[server-response]:
+
+
+[client-request]:
+
+	GET
+	/
+	34.73.3.55
+	::ffff:127.0.0.1
+
+[server-response]:
+
+
+[client-request]:
+
+	GET
+	/
+	34.73.3.55
+	::1
+
+[server-response]:
+
+
+[client-request]:
+
+	GET
+	/
+	34.73.3.55
+	::ffff:127.0.0.1
+
+[server-response]:
+
+
+[client-request]:
+
+	GET
+	/
+	34.73.3.55
+	::1
+
+[server-response]:
+
+
+[client-request]:
+
+	GET
+	/
+	34.73.3.55
+	::ffff:127.0.0.1
+
+[server-response]:
+
+
+[client-request]:
+
+	GET
+	/
+	34.73.3.55
+	::1
+
+[server-response]:
+
+
+[client-request]:
+
+	GET
+	/owa/auth/logon.aspx
+	34.73.3.55
+	::ffff:127.0.0.1
+
+[server-response]:
+
+
+[client-request]:
+
+	GET
+	/
+	34.73.3.55
+	::1
+
+[server-response]:
+
+
+[client-request]:
+
+	GET
+	/
+	cameronsenna.com
+	::ffff:127.0.0.1
+
+[server-response]:
+
+
+[client-request]:
+
+	GET
+	/
+	cameronsenna.com
 	::ffff:127.0.0.1
 
 [server-response]:

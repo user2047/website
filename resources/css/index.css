@@ -88,8 +88,8 @@ a.anchor {
  	display: inline-block;
 	margin: 20px;
 	width: 10vw;
-	min-width: 60px;
-
+	min-width: 61px;
+	max-width: 100px;
 
 
 }
