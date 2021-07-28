@@ -59,11 +59,20 @@ app.get("/roadmap", function(req, res) {
   res.render("index", {locals: {title: "Roadmap",main: "<ul><li>Switch from server Side Rendering to Client Side Rendering via ReactJS to reduce load times</li></ul>",content:"This is the main content"}})
 });
 
+app.get("/engine", function (req, res) {
+	res.render("engine", {locals: {title: "engine"}})
+});
+
+
+
+
+
 app.get("/download", function(req, res) {
 	res.download("resources/content/resume.pdf");
 });
 
 // Start Server
-app.listen(3000, function() {
-  console.log("server started on port 3000");
+var port = 3000
+app.listen(port, function() {
+  console.log("server started on port $(port)");
 });
