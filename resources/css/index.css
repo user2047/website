@@ -8,8 +8,13 @@
   /* margin-top: 63px; */
 padding-top: 63px;
 }
-.page {
-  /* background-color: #f4f4f4; */
+
+div.page {
+  background-color: #f4f4f4;
+  color: #00008b;
+  text-align: center;
+  padding: 10px;
+  align: center;
 }
 
 a.anchor {
@@ -21,6 +26,19 @@ a.anchor {
 
 #engine {
 padding-top: 63px;
+}
+
+#expList {
+	margin: auto;
+	height: 50px;
+}
+
+
+ul.exp {
+	display: inline-block;
+float: center;
+padding: 30px;
+text-align: center;
 }
 
   #main {

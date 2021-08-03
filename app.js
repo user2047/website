@@ -31,7 +31,7 @@ app.use(logger);
 // Home Route
 
 app.get("/", function(req, res) {
-  res.render("index", {locals: {title: "Home", main: "This is the home page",content:"This is the main content"}})
+  res.render("index", {locals: {title: "Home", main: "Home Page",content:"This is the homepage"}})
 });
 
 app.get("/about", function(req, res) {
