@@ -63,6 +63,10 @@ app.get("/engine", function (req, res) {
 	res.render("engine", {locals: {title: "engine"}})
 });
 
+app.get("/qrcode", function (req, res) {
+	res.render("qrcode", {locals: {title: "qrcode"}})
+});
+
 
 
 
