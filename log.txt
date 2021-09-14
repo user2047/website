@@ -3,69 +3,9 @@ server started on port $(port)
 [client-request]:
 
 	GET
-	/engine
-	localhost
-	::ffff:127.0.0.1
-
-[server-response]:
-
-
-[client-request]:
-
-	GET
-	/resume
-	localhost
-	::ffff:127.0.0.1
-
-[server-response]:
-
-
-[client-request]:
-
-	GET
-	/engine
-	localhost
-	::1
-
-[server-response]:
-
-
-[client-request]:
-
-	GET
 	/
 	localhost
 	::ffff:127.0.0.1
-
-[server-response]:
-
-
-[client-request]:
-
-	GET
-	/contact
-	localhost
-	::1
-
-[server-response]:
-
-
-[client-request]:
-
-	GET
-	/resume
-	localhost
-	::ffff:127.0.0.1
-
-[server-response]:
-
-
-[client-request]:
-
-	GET
-	/engine
-	localhost
-	::1
 
 [server-response]:
 
