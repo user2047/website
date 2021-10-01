@@ -44,14 +44,9 @@ padding-top: 63px;
 }
 
 
-ul.exp {
-	display: inline-block;
-float: center;
-padding: 30px;
-text-align: center;
-}
 
   #main {
+  font-size: 5vmin;
   text-align: center;
   color: #00008b;
   height: calc(50vh - 63px);
@@ -80,7 +75,7 @@ text-align: center;
 }
 
 #secondpage {
-  /* height: 100vh; */
+  /* font-size: 3vmin; */
   background-color: #f4f4f4;
   color: #00008b;
   text-align: center;
@@ -99,13 +94,22 @@ text-align: center;
   background-size: cover;
 }
 
-#thidrpage {
-  /* height: 100vh; */
-}
+
 #third {
+  font-size: 2vmin;
   height: calc(50vh - 63px);
 
 }
+
+ul.exp {
+  display: inline-block;
+  float: center;
+  padding: 30px;
+  text-align: center;
+  font-size: 3vmin;
+}
+
+
 #photo3 {
   background: url("../content/image1.jpg");
   background-attachment: fixed;
@@ -119,10 +123,8 @@ text-align: center;
 .logos {
  	display: inline-block;
 	margin: 20px;
-	width: 10vw;
-	min-width: 61px;
-	max-width: 100px;
-
+  /* background-size: 5 */
+  width: 15vmin;
 
 }
 
@@ -131,9 +133,7 @@ text-align: center;
 .backend {
   vertical-align: middle;
   margin: 20px;
-  min-width: 90px;
-  width: 10vw;
-
+  width: 15vmin;
 }
 
 
