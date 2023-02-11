@@ -16,6 +16,6 @@
     "express": "^4.17.1",
     "express-es6-template-engine": "^2.2.3",
     "fs": "0.0.1-security",
-    "nodemon": "^2.0.4"
+    "nodemon": "^2.0.20"
   }
 }
